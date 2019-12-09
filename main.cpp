@@ -25,7 +25,6 @@ void print(vector<string> &printVector )
 
    for (int i=0; i<printVector.size(); i++) //print the vector
    cout << printVector[i] << " " <<endl ; 
-
 }
 
 int main()
